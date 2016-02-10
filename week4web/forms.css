@@ -1,0 +1,19 @@
+
+
+#style {
+	border: solid 2px #e67e00;
+	background: #ffddb3;
+	width: 450px;
+}
+
+#style p{
+	font-size: 18px;
+}
+
+#style label {
+display:block;
+text-align:right;
+width:150px;
+float: left;
+}
+
